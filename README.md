@@ -1,6 +1,6 @@
 Hi there, I'm Felipe! 👋
 
-I'm a Software Developer building my path in Back-End development. I have experience creating desktop applications with Python and I am currently focused on mastering Java and its ecosystem. I love learning new technologies and applying them to solve real-world problems.
+I am a dedicated **Computer Science undergraduate** and **IT Support Analyst**, combining academic rigor with practical technical expertise. My primary focus centers on **Object-Oriented Programming (Java)** and **Database Management (PostgreSQL, MySQL)**, aiming to build robust and scalable backend solutions.
 
 🛠️ Tech Stack & Tools
 
