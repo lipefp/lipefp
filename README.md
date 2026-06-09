@@ -12,7 +12,6 @@ Computer Science undergrad and IT Support Analyst, building web back-ends and fu
 - 🐍 Back-end with **Django + Django REST Framework**
 - 📱 Full-stack mobile with **React Native + Expo**
 - 🛠️ Day job: IT infrastructure & technical support
-- 🌱 Currently learning: *(only put here what's actually true — e.g. Java, Docker, testing — and back it with a repo)*
 
 ---
 
@@ -32,7 +31,7 @@ Computer Science undergrad and IT Support Analyst, building web back-ends and fu
 
 - **[TaskFlow](https://github.com/lipefp/taskflow)** — REST API for personal task management. Django + Django REST Framework with Token authentication, status filtering, pagination and pt-br responses. *(My back-end showcase.)*
 - **[AutoFlux](https://github.com/lipefp/autoflux)** — Full-stack auto-parts marketplace. React Native (Expo + TypeScript) front-end with a Django REST back-end and role-based accounts (customer / store / admin).
-- **[app-notas-fiscais](https://github.com/lipefp/app-notas-fiscais)** — Python tool for working with invoice/receipt data. *(👈 confirm this description — adjust to what it actually does.)*
+- **[app-notas-fiscais](https://github.com/lipefp/app-notas-fiscais)** — Python tool for working with invoice/receipt data. 
 - **[classificador-python](https://github.com/lipefp/classificador-python)** — Academic data-classification project (2025.1).
 
 ---
