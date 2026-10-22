@@ -8,9 +8,24 @@ Cursando Ciência da Computação na Estácio.
 
 ## Stack
 
-**Suporte e infraestrutura** — Windows · Linux · Redes · Telefonia IP · Hardware · EVE-NG
+**Suporte e infraestrutura**
 
-**Desenvolvimento** — Python · Django · Django REST Framework · React · TypeScript · MySQL · PostgreSQL · SQLite · Git
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-00188F?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Desenvolvimento**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projetos
 
@@ -24,4 +39,5 @@ Cursando Ciência da Computação na Estácio.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/felipe-diniz1/) · dinizlipe27@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-diniz1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinizlipe27@gmail.com)
