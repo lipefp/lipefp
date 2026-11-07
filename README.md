@@ -45,3 +45,7 @@ React Native · TypeScript · Django REST Framework
 ### [ponto-cego](https://github.com/lipefp/ponto-cego)
 Browser FPS built with AI assistance. Deployed on Oracle Cloud (Docker + Caddy).  
 Babylon.js · JavaScript · Docker
+
+### [ryo](https://github.com/lipefp/ryo)
+Personal finance app — expense tracking, card bills, installments and savings goals. Live on GitHub Pages.
+React · Supabase · PostgreSQL · PWA
