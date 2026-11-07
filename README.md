@@ -2,16 +2,15 @@
 
 IT Support at **Leste Telecom** · CS Student · Building things with Python and Django
 
-I work in IT support at a telecom company — hardware, network equipment,
-infrastructure lab (EVE-NG on Ubuntu Server). On the side I build
-back-end APIs, full-stack apps, and whatever I need to learn next.
+I work in IT support at a telecom company — hardware, network equipment, user support.
+On the side I build back-end APIs, full-stack apps, and whatever I need to learn next.
 
 ---
 
 ## What I work with
 
 **Day job**
-Linux (Arch + Ubuntu) · Ubuntu Server · EVE-NG · Hardware maintenance · Network equipment
+Linux (Arch) · Hardware maintenance · Network equipment · ISP environment
 
 **Code**
 | Layer | Stack |
@@ -21,7 +20,7 @@ Linux (Arch + Ubuntu) · Ubuntu Server · EVE-NG · Hardware maintenance · Netw
 | Desktop | PyQt5 |
 | Databases | MySQL · MariaDB · SQLite |
 | Deploy | Docker · Caddy · Oracle Cloud · Supabase |
-| Tools | Git · VS Code · Linux (Arch + Ubuntu) |
+| Tools | Git · VS Code · Linux (Arch) |
 
 ---
 
@@ -46,7 +45,3 @@ React Native · TypeScript · Django REST Framework
 ### [ponto-cego](https://github.com/lipefp/ponto-cego)
 Browser FPS built with AI assistance. Deployed on Oracle Cloud (Docker + Caddy).  
 Babylon.js · JavaScript · Docker
-
----
-
-*Currently learning: network infrastructure, Docker, automated testing.*
